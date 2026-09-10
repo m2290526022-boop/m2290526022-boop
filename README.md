@@ -46,10 +46,10 @@
       <sub>研究 · 筛选 · 结构化</sub>
     </td>
     <td width="33.33%" valign="top">
-      <img src="./assets/project-02-organize-noise.svg" width="100%" alt="Signal and Noise organize building blocks" />
+      <img src="./assets/agent-repo-intelligence.png" width="100%" alt="Signal and Noise organize building blocks" />
       <br /><br />
       <sub>02 / ORGANIZE THE NOISE</sub><br />
-      <strong>为复杂问题建立秩序</strong>
+      <strong>为产品经理项目分析所建</strong>
       <p>拆解模糊需求，整理约束，让想法逐渐拥有可以交付的形状。</p>
       <sub>系统 · 工作流 · 产品</sub>
     </td>
