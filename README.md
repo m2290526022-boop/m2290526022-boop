@@ -22,7 +22,6 @@
         Interested in AI‑Agent system design & LLM product management.
         Continuously explore Agent capability iteration, reliability and real‑world business landing.
         深耕 AI Agent 领域，聚焦大模型 Agent 产品设计，研究 Agent 能力迭代、可靠性与业务落地。
-        我关注如何从复杂问题中找到清晰方向，再把方向变成真正可用的东西。
       </p>
       <p><strong>Same belief. Different forms. More signal.</strong></p>
     </td>
