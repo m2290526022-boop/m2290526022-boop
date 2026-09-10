@@ -4,10 +4,6 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero-minimal.svg" width="100%" alt="Signal & Noise — 在噪声中，找到真正的信号。" />
-</p>
-
-<p align="center">
   <img src="./assets/marquee-minimal.svg" width="100%" alt="Curiosity, Focus, Better Ideas, A Calmer Mind" />
 </p>
 
