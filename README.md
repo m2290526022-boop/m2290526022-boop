@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td width="33.33%" valign="top">
-      <img src="./icontopack.png" width="100%" alt="Signal finds a useful pattern inside Noise" />
+      <img src=".assets/icontopack.png" width="100%" alt="Signal finds a useful pattern inside Noise" />
       <br /><br />
       <sub>01 / FIND THE SIGNAL</sub><br />
       <strong>一键生成icon包</strong>
