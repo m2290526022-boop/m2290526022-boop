@@ -44,8 +44,8 @@
       <img src="./assets/project-01-find-signal.svg" width="100%" alt="Signal finds a useful pattern inside Noise" />
       <br /><br />
       <sub>01 / FIND THE SIGNAL</sub><br />
-      <strong>从混乱里发现重点</strong>
-      <p>把分散的信息变成清晰、可验证、值得行动的判断。</p>
+      <strong>一键生成icon包</strong>
+      <p>自动生成图标-切图-命名</p>
       <sub>研究 · 筛选 · 结构化</sub>
     </td>
     <td width="33.33%" valign="top">
