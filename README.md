@@ -69,56 +69,56 @@
 
 <br />
 
-<p><sub>03 — JOURNEY</sub></p>
+## <p><sub>03 — JOURNEY</sub></p>
 
 ## JOURNEY
 
-<p align="center">
-  <img src="./assets/journey-minimal.svg" width="100%" alt="Start, Explore, Build, Share" />
-</p>
+## <p align="center">
+##   <img src="./assets/journey-minimal.svg" width="100%" alt="Start, Explore, Build, Share" />
+## </p>
 
-<!-- EDIT: 用你真实的年份、经历和成果替换下面内容。 -->
+## <!-- EDIT: 用你真实的年份、经历和成果替换下面内容。 -->
 
-<details>
-  <summary><strong>展开经历与足迹</strong></summary>
-  <br />
+## <details>
+##   <summary><strong>展开经历与足迹</strong></summary>
+##   <br />
 
-  | 时间 | 阶段 | 留下的东西 |
-  |---|---|---|
-  | 现在 | 正在探索 | 写下你目前最重要的方向 |
-  | 上一阶段 | 一次关键转折 | 写下它如何改变了你 |
-  | 更早 | 起点 | 写下你为什么开始创造 |
+ ##  | 时间 | 阶段 | 留下的东西 |
+ ##  |---|---|---|
+##   | 现在 | 正在探索 | 写下你目前最重要的方向 |
+##   | 上一阶段 | 一次关键转折 | 写下它如何改变了你 |
+ ##  | 更早 | 起点 | 写下你为什么开始创造 |
 
-</details>
+## </details>
 
-<br />
+## <br />
 
-<p><sub>04 — CURRENTLY EXPLORING</sub></p>
+## <p><sub>04 — CURRENTLY EXPLORING</sub></p>
 
 ## CURRENTLY EXPLORING
 
-<!-- EDIT: 保留 3–4 个你真正投入的主题。 -->
+## <!-- EDIT: 保留 3–4 个你真正投入的主题。 -->
 
-`NEW IDEAS` &nbsp;&nbsp; `BETTER WORKFLOWS` &nbsp;&nbsp; `MEANINGFUL PROJECTS` &nbsp;&nbsp; `A CALMER MIND`
+## `NEW IDEAS` &nbsp;&nbsp; `BETTER WORKFLOWS` &nbsp;&nbsp; `MEANINGFUL PROJECTS` &nbsp;&nbsp; `A CALMER MIND`
 
-我正在练习分辨什么值得关注、怎样整理复杂度，以及如何把好想法变成持续发生的行动。
+## 我正在练习分辨什么值得关注、怎样整理复杂度，以及如何把好想法变成持续发生的行动。
 
-<br />
+## <br />
 
-<p><sub>05 — CONTACT</sub></p>
+## <p><sub>05 — CONTACT</sub></p>
 
 ## CONTACT
 
-想交流项目、方法或新的可能，欢迎在 GitHub 找到我。
+## 想交流项目、方法或新的可能，欢迎在 GitHub 找到我。
 
-<p>
-  <a href="https://github.com/m2290526022-boop"><strong>GitHub ↗</strong></a>
-  <!-- EDIT: 有个人网站或邮箱后，可在这里继续添加链接。 -->
-</p>
+## <p>
+##   <a href="https://github.com/m2290526022-boop"><strong>GitHub ↗</strong></a>
+##   <!-- EDIT: 有个人网站或邮箱后，可在这里继续添加链接。 -->
+## </p>
 
-<br />
+## <br />
 
-<p align="center">
+ <p align="center">
   <img src="./assets/footer-minimal.svg" width="100%" alt="Less Noise. More Signal." />
 </p>
 
