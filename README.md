@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/marquee-minimal.svg" width="100%" alt="Curiosity, Focus, Better Ideas, A Calmer Mind" />
+  <img src="./assets/Codex 图像 2026年9月10日 23_22_09.png" width="100%" alt="Curiosity, Focus, Better Ideas, A Calmer Mind" />
 </p>
 
 <!-- EDIT: 把下面两段替换成你的个人介绍。 -->
