@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-labelledby="title">
+  <title id="title">Build with clarity</title>
+  <defs><filter id="g" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="1" y="1" width="718" height="558" fill="#FBFAF5" stroke="#071B42" stroke-opacity="0.18"/>
+  <circle cx="80" cy="72" r="7" fill="#FF9635"/><line x1="101" y1="72" x2="640" y2="72" stroke="#071B42" stroke-opacity="0.16"/>
+  <rect x="226" y="342" width="268" height="26" rx="13" fill="#071B42"/>
+  <rect x="250" y="193" width="220" height="145" rx="8" fill="#E8EEF5" stroke="#071B42" stroke-width="6"/>
+  <circle cx="360" cy="266" r="19" fill="#FF9635"/><path d="M351 266l7 8 13-18" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(178 314)">
+    <circle r="84" fill="#071B42"/><line y1="-84" y2="-120" stroke="#071B42" stroke-width="8"/><circle cy="-133" r="17" fill="#FBFAF5" stroke="#49A9FA" stroke-width="7" filter="url(#g)"/>
+    <ellipse cx="-25" cy="-13" rx="9" ry="17" fill="#fff"/><ellipse cx="25" cy="-13" rx="9" ry="17" fill="#fff"/><path d="M-10 16Q0 25 10 16" fill="none" stroke="#fff" stroke-width="4"/>
+    <path d="M-101 3H-82L-71-12L-59 21L-49-3H49L61-14L73 19L83 3H101" fill="none" stroke="#FF9635" stroke-width="10"/><path d="M-101 3H-82L-71-12L-59 21L-49-3H49L61-14L73 19L83 3H101" fill="none" stroke="#FFF8EA" stroke-width="4"/>
+    <line x1="-34" y1="76" x2="-41" y2="102" stroke="#071B42" stroke-width="8"/><line x1="34" y1="76" x2="41" y2="102" stroke="#071B42" stroke-width="8"/><ellipse cx="-45" cy="105" rx="18" ry="11" fill="#071B42"/><ellipse cx="45" cy="105" rx="18" ry="11" fill="#071B42"/>
+  </g>
+  <g transform="translate(544 333)">
+    <g fill="none" stroke="#111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M-78-47C-19-102 82-64 69-6C56 57-48 84-92 21"/><path d="M-99-9C-62-77 37-96 91-38C128 3 75 78 12 90"/><path d="M-52-92C13-74 96-10 60 62C27 125-75 87-101 28"/><path d="M-105 45C-53 24 18-74 84-54"/><path d="M-82 79C-20 40 39 24 107 11"/><path d="M-27-104C-54-31-26 61 66 88"/></g>
+    <ellipse cy="4" rx="44" ry="41" fill="#111"/><ellipse cx="-15" cy="0" rx="8" ry="13" fill="#fff"/><ellipse cx="16" cy="0" rx="8" ry="13" fill="#fff"/><path d="M-81 28Q-108 19-118 39M81 28Q109 19 117 39" fill="none" stroke="#111" stroke-width="7"/><line x1="-34" y1="66" x2="-40" y2="91" stroke="#111" stroke-width="7"/><line x1="34" y1="66" x2="40" y2="91" stroke="#111" stroke-width="7"/><ellipse cx="-44" cy="94" rx="17" ry="10" fill="#111"/><ellipse cx="44" cy="94" rx="17" ry="10" fill="#111"/>
+  </g>
+  <path d="M92 463H628" stroke="#071B42" stroke-opacity="0.17"/><circle cx="360" cy="463" r="6" fill="#FF9635"/>
+</svg>

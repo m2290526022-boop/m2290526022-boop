@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 96" role="img" aria-labelledby="title">
+  <title id="title">Signal and Noise themes</title>
+  <rect width="1600" height="96" fill="#071B42"/>
+  <g fill="#FBFAF5" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="4">
+    <text x="72" y="59">CURIOSITY</text>
+    <text x="310" y="59" fill="#FF9635">/</text>
+    <text x="372" y="59">FOCUS</text>
+    <text x="552" y="59" fill="#FF9635">/</text>
+    <text x="614" y="59">BETTER IDEAS</text>
+    <text x="902" y="59" fill="#FF9635">/</text>
+    <text x="964" y="59">A CALMER MIND</text>
+    <text x="1308" y="59" fill="#FF9635">/</text>
+    <text x="1370" y="59">MORE SIGNAL</text>
+  </g>
+</svg>

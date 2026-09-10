@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+  <title id="title">Signal &amp; Noise</title>
+  <desc id="desc">Minimal personal profile hero featuring Signal and Noise.</desc>
+  <defs>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="820" fill="#FBFAF5"/>
+
+  <g fill="#071B42" font-family="Inter, Arial, 'Noto Sans SC', sans-serif">
+    <text x="80" y="70" font-size="26" font-weight="700">SIGNAL &amp; NOISE</text>
+    <text x="1112" y="70" font-size="18" letter-spacing="3">ABOUT</text>
+    <text x="1232" y="70" font-size="18" letter-spacing="3">WORK</text>
+    <text x="1335" y="70" font-size="18" letter-spacing="3">JOURNEY</text>
+    <text x="1480" y="70" font-size="18" letter-spacing="3">CONTACT</text>
+  </g>
+  <line x1="80" y1="104" x2="1520" y2="104" stroke="#071B42" stroke-opacity="0.18"/>
+  <circle cx="1520" cy="69" r="6" fill="#071B42"/>
+
+  <g fill="#071B42" font-family="Inter, Arial, 'Noto Sans SC', sans-serif" font-weight="800" letter-spacing="-7">
+    <text x="80" y="300" font-size="150">Signal</text>
+    <text x="80" y="440" font-size="150">&amp; Noise</text>
+  </g>
+  <text x="84" y="520" fill="#071B42" font-family="Inter, Arial, 'Noto Sans SC', sans-serif" font-size="42" font-weight="700">在噪声中，找到真正的信号。</text>
+  <line x1="84" y1="558" x2="145" y2="558" stroke="#FF9635" stroke-width="5"/>
+  <g fill="#365684" font-family="Inter, Arial, sans-serif" font-size="27">
+    <text x="84" y="620">Same Belief.</text>
+    <text x="84" y="656">Different Forms.</text>
+    <text x="84" y="692">More Signal.</text>
+  </g>
+
+  <!-- Signal -->
+  <g transform="translate(1085 400)">
+    <ellipse cx="0" cy="188" rx="174" ry="18" fill="#071B42" opacity="0.08"/>
+    <circle cx="0" cy="0" r="154" fill="#071B42"/>
+    <line x1="0" y1="-154" x2="0" y2="-214" stroke="#071B42" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="0" cy="-232" r="27" fill="#FBFAF5" stroke="#49A9FA" stroke-width="12" filter="url(#glow)"/>
+    <ellipse cx="-47" cy="-24" rx="16" ry="31" fill="#FFFFFF"/>
+    <ellipse cx="47" cy="-24" rx="16" ry="31" fill="#FFFFFF"/>
+    <path d="M-17 27 Q0 43 17 27" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+    <path d="M-185 8 H-150 L-133 -17 L-112 38 L-90 -8 H-64 H64 H88 L108 -27 L129 32 L148 8 H185" fill="none" stroke="#FF9635" stroke-width="18" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M-185 8 H-150 L-133 -17 L-112 38 L-90 -8 H-64 H64 H88 L108 -27 L129 32 L148 8 H185" fill="none" stroke="#FFF8EA" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+    <line x1="-62" y1="135" x2="-77" y2="181" stroke="#071B42" stroke-width="14" stroke-linecap="round"/>
+    <line x1="62" y1="135" x2="77" y2="181" stroke="#071B42" stroke-width="14" stroke-linecap="round"/>
+    <ellipse cx="-87" cy="187" rx="32" ry="20" fill="#071B42"/>
+    <ellipse cx="87" cy="187" rx="32" ry="20" fill="#071B42"/>
+    <path d="M143 62 Q196 80 222 55" fill="none" stroke="#071B42" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="228" cy="51" r="14" fill="#071B42"/>
+  </g>
+
+  <!-- Noise -->
+  <g transform="translate(1395 476)">
+    <ellipse cx="0" cy="127" rx="132" ry="14" fill="#071B42" opacity="0.07"/>
+    <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-101 -57 C-24 -132 104 -78 86 -4 C68 75 -64 108 -119 27"/>
+      <path d="M-127 -12 C-80 -99 48 -125 118 -48 C166 5 98 100 17 118"/>
+      <path d="M-66 -118 C18 -95 126 -13 79 80 C36 163 -98 113 -132 35"/>
+      <path d="M-137 58 C-70 31 24 -96 109 -69"/>
+      <path d="M-108 104 C-27 52 51 31 139 15"/>
+      <path d="M-35 -135 C-71 -41 -34 81 86 116"/>
+      <path d="M136 -31 C56 -42 -29 -7 -113 70"/>
+      <path d="M-143 4 C-54 19 45 26 145 -14"/>
+    </g>
+    <ellipse cx="0" cy="8" rx="59" ry="54" fill="#111111"/>
+    <ellipse cx="-20" cy="1" rx="10" ry="17" fill="#FFFFFF" transform="rotate(18 -20 1)"/>
+    <ellipse cx="22" cy="1" rx="10" ry="17" fill="#FFFFFF" transform="rotate(-18 22 1)"/>
+    <line x1="-46" y1="81" x2="-53" y2="119" stroke="#111111" stroke-width="9" stroke-linecap="round"/>
+    <line x1="46" y1="81" x2="53" y2="119" stroke="#111111" stroke-width="9" stroke-linecap="round"/>
+    <ellipse cx="-57" cy="123" rx="22" ry="13" fill="#111111"/>
+    <ellipse cx="57" cy="123" rx="22" ry="13" fill="#111111"/>
+    <path d="M-105 28 Q-139 18 -148 44 M104 27 Q136 13 149 35" fill="none" stroke="#111111" stroke-width="8" stroke-linecap="round"/>
+    <path d="M-124 -101 q-18 -18 -28 -2 M112 -91 q21 -18 31 3 M128 73 q25 6 21 26" fill="none" stroke="#111111" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <line x1="80" y1="762" x2="1520" y2="762" stroke="#071B42" stroke-opacity="0.25"/>
+  <g fill="#365684" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="3">
+    <text x="80" y="798">PORTFOLIO / 2026</text>
+    <text x="1283" y="798">KEEP EXPLORING</text>
+  </g>
+</svg>

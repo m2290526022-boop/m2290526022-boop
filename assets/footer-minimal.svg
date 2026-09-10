@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 330" role="img" aria-labelledby="title">
+  <title id="title">Less Noise. More Signal.</title>
+  <rect width="1600" height="330" fill="#071B42"/>
+  <line x1="80" y1="72" x2="1520" y2="72" stroke="#FBFAF5" stroke-opacity="0.24"/>
+  <text x="80" y="220" fill="#FBFAF5" font-family="Inter, Arial, sans-serif" font-size="94" font-weight="800" letter-spacing="-4">LESS NOISE. MORE SIGNAL.</text>
+  <circle cx="1460" cy="194" r="12" fill="#FF9635"/>
+  <g fill="#8FBCEB" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="4">
+    <text x="82" y="286">SAME BELIEF. DIFFERENT FORMS.</text>
+    <text x="1313" y="286">KEEP GOING →</text>
+  </g>
+</svg>

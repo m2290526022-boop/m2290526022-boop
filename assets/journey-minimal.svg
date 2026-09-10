@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 430" role="img" aria-labelledby="title">
+  <title id="title">Signal and Noise journey</title>
+  <defs><filter id="g" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="1" y="1" width="1598" height="428" fill="#FBFAF5" stroke="#071B42" stroke-opacity="0.18"/>
+  <line x1="110" y1="190" x2="1120" y2="190" stroke="#071B42" stroke-width="3" stroke-opacity="0.5"/>
+  <path d="M1120 190l-18-11v22z" fill="#071B42"/>
+  <g font-family="Inter, Arial, sans-serif" fill="#071B42">
+    <g transform="translate(150 0)"><circle cx="0" cy="190" r="11" fill="#071B42"/><text x="-32" y="142" font-size="22" font-weight="700">START</text><text x="-32" y="238" font-size="17">Stay curious.</text></g>
+    <g transform="translate(450 0)"><circle cx="0" cy="190" r="11" fill="#FBFAF5" stroke="#071B42" stroke-width="4"/><text x="-45" y="142" font-size="22" font-weight="700">EXPLORE</text><text x="-45" y="238" font-size="17">Find patterns.</text></g>
+    <g transform="translate(750 0)"><circle cx="0" cy="190" r="11" fill="#FBFAF5" stroke="#071B42" stroke-width="4"/><text x="-34" y="142" font-size="22" font-weight="700">BUILD</text><text x="-34" y="238" font-size="17">Turn ideas into practice.</text></g>
+    <g transform="translate(1050 0)"><circle cx="0" cy="190" r="11" fill="#FBFAF5" stroke="#071B42" stroke-width="4"/><text x="-37" y="142" font-size="22" font-weight="700">SHARE</text><text x="-37" y="238" font-size="17">Make it useful.</text></g>
+    <text x="1245" y="90" font-size="17" letter-spacing="3">CURRENTLY EXPLORING</text>
+    <text x="1245" y="124" font-size="20" font-weight="700">A clearer direction.</text>
+  </g>
+
+  <circle cx="1392" cy="224" r="72" fill="#FF9635" opacity="0.95"/>
+  <path d="M1190 284l98-73 62 38 77-66 87 101z" fill="#FBFAF5" stroke="#071B42" stroke-width="4"/>
+  <path d="M1190 284h325" stroke="#071B42" stroke-width="3"/>
+
+  <g transform="translate(1305 290) scale(.52)">
+    <circle r="100" fill="#071B42"/><line y1="-100" y2="-142" stroke="#071B42" stroke-width="10"/><circle cy="-156" r="19" fill="#FBFAF5" stroke="#49A9FA" stroke-width="8" filter="url(#g)"/>
+    <ellipse cx="-30" cy="-15" rx="10" ry="20" fill="#fff"/><ellipse cx="30" cy="-15" rx="10" ry="20" fill="#fff"/><path d="M-11 19Q0 30 11 19" fill="none" stroke="#fff" stroke-width="5"/>
+    <path d="M-120 3H-98L-86-13L-72 25L-59-4H59L73-16L88 22L100 3H120" fill="none" stroke="#FF9635" stroke-width="13"/><path d="M-120 3H-98L-86-13L-72 25L-59-4H59L73-16L88 22L100 3H120" fill="none" stroke="#FFF8EA" stroke-width="5"/>
+    <line x1="-40" y1="91" x2="-49" y2="121" stroke="#071B42" stroke-width="10"/><line x1="40" y1="91" x2="49" y2="121" stroke="#071B42" stroke-width="10"/><ellipse cx="-54" cy="125" rx="21" ry="13" fill="#071B42"/><ellipse cx="54" cy="125" rx="21" ry="13" fill="#071B42"/>
+  </g>
+  <g transform="translate(1440 303) scale(.52)">
+    <g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M-85-51C-21-112 89-69 75-6C61 63-52 91-100 23"/><path d="M-108-10C-67-84 41-105 100-42C140 3 82 85 14 98"/><path d="M-57-100C14-80 105-11 66 68C29 137-82 94-110 30"/><path d="M-114 50C-57 26 20-81 91-59"/><path d="M-89 86C-22 43 43 26 116 13"/><path d="M-29-114C-59-34-28 67 72 96"/><path d="M113-25C47-36-25-6-95 60"/></g>
+    <ellipse cy="5" rx="49" ry="46" fill="#111"/><ellipse cx="-17" cy="0" rx="8" ry="15" fill="#fff"/><ellipse cx="18" cy="0" rx="8" ry="15" fill="#fff"/><path d="M-89 30Q-119 21-129 43M89 30Q119 20 128 42" fill="none" stroke="#111" stroke-width="8"/><line x1="-38" y1="73" x2="-44" y2="100" stroke="#111" stroke-width="8"/><line x1="38" y1="73" x2="44" y2="100" stroke="#111" stroke-width="8"/><ellipse cx="-48" cy="103" rx="18" ry="11" fill="#111"/><ellipse cx="48" cy="103" rx="18" ry="11" fill="#111"/>
+  </g>
+</svg>
