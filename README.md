@@ -2,11 +2,11 @@
   SIGNAL & NOISE / GITHUB PROFILE
   Edit the copy marked with "EDIT" comments when your personal content is ready.
 -->
-
+<!--
 <p align="center">
   <img src="./assets/marquee-minimal.svg" width="100%" alt="Curiosity, Focus, Better Ideas, A Calmer Mind" />
 </p>
-
+-->
 <!-- EDIT: 把下面两段替换成你的个人介绍。 -->
 
 <table>
