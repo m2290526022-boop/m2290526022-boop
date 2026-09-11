@@ -29,9 +29,9 @@
 
 <br />
 
-<p><sub>02 — SELECTED WORK</sub></p>
+<p><sub>02 — RECENT WORKS</sub></p>
 
-## SELECTED WORK
+## RECENT WORKS
 
 <!-- EDIT: 修改项目名称、介绍和链接；每个项目建议只保留一句价值描述。 -->
 
@@ -57,7 +57,7 @@
       <img src="./assets/tennis.png" width="100%" alt="Signal and Noise build something clear together" />
       <br /><br />
       <sub>03 / BUILD WITH CLARITY</sub><br />
-      <strong>把理解变成真实进展</strong>
+      <strong>网搭星球小程序</strong>
       <p>用小步实验连接设计与工程，从洞察走到真正可用的结果。</p>
       <sub>设计 · 工程 · 迭代</sub>
     </td>
