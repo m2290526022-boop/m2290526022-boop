@@ -54,7 +54,7 @@
       <sub>系统 · 工作流 · 产品</sub>
     </td>
     <td width="33.33%" valign="top">
-      <img src="./assets/project-03-build-clarity.svg" width="100%" alt="Signal and Noise build something clear together" />
+      <img src="./assets/tennis.png" width="100%" alt="Signal and Noise build something clear together" />
       <br /><br />
       <sub>03 / BUILD WITH CLARITY</sub><br />
       <strong>把理解变成真实进展</strong>
