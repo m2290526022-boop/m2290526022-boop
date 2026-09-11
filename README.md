@@ -19,7 +19,6 @@
         Continuously explore Agent capability iteration, reliability and real‑world business landing.
         深耕 AI Agent 领域，聚焦大模型 Agent 产品设计，研究 Agent 能力迭代、可靠性与业务落地。
       </p>
-      <p><strong>Same belief. Different forms. More signal.</strong></p>
     </td>
     <td width="58%" align="center" valign="middle">
       <img src="./assets/aboutme.png" width="100%" alt="Signal and Noise character overview" />
@@ -67,10 +66,4 @@
 <br />
 
 
-
-## <br />
-
- <p align="center">
-  <img src="./assets/footer-minimal.svg" width="100%" alt="Less Noise. More Signal." />
-</p>
 
